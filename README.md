@@ -48,7 +48,7 @@ Aplikasi ini didukung oleh basis data relasional bernama `rental_mobil_db` yang 
 Berikut adalah visualisasi skema database yang digunakan pada sistem ini:
 
 <p align="center">
-  <img src="./ER Diagram Rental Mobil(3).png" alt="ER Diagram Rental Mobil" width="85%">
+  <img src="./ER Diagram Rental Mobil (3).png" alt="ER Diagram Rental Mobil" width="85%">
 </p>
 
 ---
