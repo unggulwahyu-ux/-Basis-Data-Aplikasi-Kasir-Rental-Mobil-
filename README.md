@@ -67,9 +67,9 @@ src/
 │   └── FormPetunjuk.java           # Dokumentasi panduan teknis operasional untuk pengguna akhir
 │
 └── img/                            # Aset Gambar Kustom untuk UI & Background Form
-    ├── gambarmenuawal.jpg          # Latar belakang halaman Welcome utama
-    ├── gambarmenu2.jpg             # Latar belakang menu navigasi utama
+    ├── gambarmenuawal.png          # Latar belakang halaman Welcome utama
+    ├── gambarmenu2.png             # Latar belakang menu navigasi utama
     ├── backgroundformpelanggan.jpg # Latar belakang form master pelanggan
-    ├── backgroundformmobil.jpg     # Latar belakang form master mobil
-    ├── backgroundformsupir.jpg     # Latar belakang form master supir
-    └── backgroundformsewa.jpg      # Latar belakang form transaksi penyewaan
+    ├── backgroundformmobil.png     # Latar belakang form master mobil
+    ├── backgroundformsupir.png     # Latar belakang form master supir
+    └── backgroundformsewa.png      # Latar belakang form transaksi penyewaan
