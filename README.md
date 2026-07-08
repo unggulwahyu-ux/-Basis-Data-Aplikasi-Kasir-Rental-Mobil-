@@ -5,9 +5,11 @@ Sistem Informasi Rental Mobil adalah aplikasi desktop berbasis **MDI (Multiple D
 
 ---
 
-## 👥 Anggota Tim Pengembang & Pembagian Tugas
-Projek ini disusun oleh mahasiswa **Teknik Informatika, Universitas Islam Balitar (UNISBA) Blitar**:
+## 📚 Keterangan Akademik & Anggota Tim
+Projek ini disusun untuk memenuhi tugas besar mata kuliah **Basis Data**, Program Studi **Teknik Informatika**, Fakultas Teknik dan Informatika, **Universitas Islam Balitar (UNISBA) Blitar**.
 
+**Dosen Pengampu:** [Udkhiati Mawaddah, S.Kom., M.Kom.]  
+### Pembagian Tugas Kelompok 3:
 * 👤 **Rendra Adnan Farid** (25104410036) — *Back-end Logic*
 * 👤 **Devika Novalina** (25104410038) — *Koneksi antara MySQL & NetBeans*
 * 👤 **Muhammad Fachri Fairuz** (25104410043) — *Desain App, Navigasi User*
