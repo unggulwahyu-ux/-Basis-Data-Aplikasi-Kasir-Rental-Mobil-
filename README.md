@@ -44,13 +44,6 @@ Aplikasi ini didukung oleh basis data relasional bernama `rental_mobil_db` yang 
 * **Mobil ➔ Sewa (*One-to-Many*):** Satu unit mobil dapat disewa dalam banyak transaksi transaksi berbeda secara bergantian.
 * **Supir ➔ Sewa (*One-to-Many*):** Seorang pengemudi/supir dapat melayani berbagai transaksi penyewaan yang masuk.
 
-### 🖼️ Preview ER Diagram
-Berikut adalah visualisasi skema database yang digunakan pada sistem ini:
-
-<p align="center">
-  <img src="./ER Diagram Rental Mobil (3).png" alt="ER Diagram Rental Mobil" width="85%">
-</p>
-
 ---
 
 ## 📂 Tata Letak Kode Sumber (Directory Structure)
